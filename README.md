@@ -1,7 +1,5 @@
 # Llm-Prod-Rag
 
-![Project Banner](https://your-image-url.com/banner.png)
-
 Welcome to **Llm-Prod-Rag**! 🎉
 
 This project aims to transform a notebook-based RAG system into a fully-fledged, production-ready application. Let's embark on this exciting journey together! 🚀
