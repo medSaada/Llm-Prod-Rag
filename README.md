@@ -7,14 +7,18 @@ This project aims to transform a notebook-based RAG system into a fully-fledged,
 ---
 
 ### To install the requirements : 
+```bash
 sudo apt install 
 conda create -n rag python=3.12
 conda activate rag
 sudo apt install python3-pip
 pip3 install requirements.txt 
+```
+### Copy the .env file and fill it 
 
-
-
+ ```bash
+ cp .env.example .env
+ ```
 ---
 
 ## 🚀 Project Overview
@@ -34,4 +38,8 @@ pip3 install requirements.txt
 
 ### Optional 
 To run the commands in the next line 
+
+```bash
+
 export PS1="\[\033[01;32m\]\u@\h:\w\n\[\033[00m\]\$ "
+
